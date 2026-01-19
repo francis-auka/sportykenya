@@ -2,6 +2,7 @@ import { BreakingNews } from "@/components/home/BreakingNews";
 import { HeroSection } from "@/components/home/HeroSection";
 import { NewsGrid } from "@/components/home/NewsGrid";
 import { Scoreboard } from "@/components/home/Scoreboard";
+import { LiveScores } from "@/components/sports/LiveScores";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <BreakingNews />
       <HeroSection />
       <Scoreboard />
+      <LiveScores />
       <NewsGrid />
     </div>
   );

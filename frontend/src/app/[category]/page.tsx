@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { PremierLeagueTable } from '@/components/sports/PremierLeagueTable';
 
 
 // Mock data
@@ -36,6 +37,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
 
     // Capitalize for display
     const title = decodedCategory.charAt(0).toUpperCase() + decodedCategory.slice(1);
+    const isFootball = decodedCategory.toLowerCase().includes('football');
 
     return (
         <div className="bg-gray-50 min-h-screen py-12">
@@ -45,6 +47,13 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
                         {title} News
                     </h1>
                 </div>
+
+                {/* Premier League Table for Football Category */}
+                {isFootball && (
+                    <div className="mb-8">
+                        <PremierLeagueTable />
+                    </div>
+                )}
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {articles.map((item) => (
