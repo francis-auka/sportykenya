@@ -13,7 +13,7 @@ async function getArticle(slug: string) {
         category: "FA Cup",
         date: "June 17, 2026",
         author: "SportyKenya Team",
-        image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=2070&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?q=80&w=2070&auto=format&fit=crop",
         content: [
             "Liverpool have opened talks with Stoke City over a £13m deal for Xherdan Shaqiri.",
             "The Switzerland international has a release clause in his contract following the Potters' relegation to the Championship.",

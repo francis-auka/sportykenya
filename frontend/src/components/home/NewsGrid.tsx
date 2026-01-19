@@ -27,7 +27,7 @@ const newsItems = [
         id: 3,
         title: "Henderson helps England into World Cup",
         excerpt: "Ultrices nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus.",
-        image: "https://images.unsplash.com/photo-1522778119026-d647f0565c71?q=80&w=1000&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?q=80&w=1000&auto=format&fit=crop",
         category: "European",
         date: "June 20, 2026",
         categoryColor: "bg-brand-red",

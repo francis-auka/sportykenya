@@ -7,7 +7,7 @@ const featuredStory = {
     title: "Wales and the World Cup: Ben Woodburn",
     category: "FA Cup",
     date: "June 17, 2026",
-    image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=2070&auto=format&fit=crop", // Placeholder
+    image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?q=80&w=2070&auto=format&fit=crop", // Football stadium
     excerpt: "Liverpool open talks for £13m Shaqiri",
 };
 

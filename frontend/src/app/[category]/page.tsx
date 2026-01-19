@@ -24,7 +24,7 @@ const articles = [
         id: 3,
         title: "Harambee Stars preparation for AFCON",
         excerpt: "The national team is in high spirits ahead of the tournament.",
-        image: "https://images.unsplash.com/photo-1522778119026-d647f0565c71?q=80&w=1000&auto=format&fit=crop",
+        image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?q=80&w=1000&auto=format&fit=crop",
         category: "Football",
         date: "June 18, 2026",
     },

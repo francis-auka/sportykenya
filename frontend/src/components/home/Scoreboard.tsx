@@ -11,7 +11,7 @@ const matches = [
         awayTeam: "FC Manchester",
         homeScore: 3,
         awayScore: 2,
-        homeLogo: "https://images.unsplash.com/photo-1522778119026-d647f0565c71?q=80&w=100&auto=format&fit=crop", // Placeholder
+        homeLogo: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=100&auto=format&fit=crop", // Soccer ball
         awayLogo: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=100&auto=format&fit=crop", // Placeholder
         status: "FT",
     },
@@ -23,7 +23,7 @@ const matches = [
         homeScore: 1,
         awayScore: 1,
         homeLogo: "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=100&auto=format&fit=crop",
-        awayLogo: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=100&auto=format&fit=crop",
+        awayLogo: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=100&auto=format&fit=crop",
         status: "FT",
     },
     {
@@ -34,7 +34,7 @@ const matches = [
         homeScore: 2,
         awayScore: 3,
         homeLogo: "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=100&auto=format&fit=crop",
-        awayLogo: "https://images.unsplash.com/photo-1522778119026-d647f0565c71?q=80&w=100&auto=format&fit=crop",
+        awayLogo: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=100&auto=format&fit=crop",
         status: "FT",
     },
     {
@@ -45,7 +45,7 @@ const matches = [
         homeScore: 0,
         awayScore: 0,
         homeLogo: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=100&auto=format&fit=crop",
-        awayLogo: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=100&auto=format&fit=crop",
+        awayLogo: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=100&auto=format&fit=crop",
         status: "15'",
         isLive: true,
     },
